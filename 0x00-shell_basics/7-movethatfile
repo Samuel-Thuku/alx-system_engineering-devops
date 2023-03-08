@@ -1,2 +1,2 @@
 #!/bin/bash
-source ./task-7
+mv /tmp/betty /tmp/my_first_directory
